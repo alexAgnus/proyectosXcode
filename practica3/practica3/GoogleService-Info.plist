@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>676116500259-mrcie744r5sr79sooflmroeirqvq49eh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676116500259-mrcie744r5sr79sooflmroeirqvq49eh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDusl8WWJTwYym6eFjLQ1G5EZ9S_6DJ68k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676116500259</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>up.practica3</string>
+	<key>PROJECT_ID</key>
+	<string>practica4-a168b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>practica4-a168b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676116500259:ios:a5ced369632dc3df0dc696</string>
+	<key>DATABASE_URL</key>
+	<string>https://practica4-a168b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
